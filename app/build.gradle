@@ -47,7 +47,8 @@ dependencies {
     //recyclerview
     implementation 'androidx.recyclerview:recyclerview:+'
     //检测内存泄漏
-    debugImplementation   'com.squareup.leakcanary:leakcanary-android:2.0-beta-3'
+    debugImplementation 'com.squareup.leakcanary:leakcanary-android:2.0-beta-3'
     //adapter
     implementation project(':pxzadapter')
+//    implementation 'com.github.yiranchunqiu:BaseAdapter:1.0'
 }
