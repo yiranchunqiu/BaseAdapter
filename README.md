@@ -29,10 +29,10 @@ allprojects {
 ```
 
 ### 使用
-#####
-对listadapter进行二次封装
+##### 对listadapter进行二次封装
+##### 对recycleradapter进行二次封装，CommonAdapter普通的adapter,MultiItemAdapter多布局的adapter
+
 ***
-对recycleradapter进行二次封装，CommonAdapter普通的adapter,MultiItemAdapter多布局的adapter
 
 ```
 
